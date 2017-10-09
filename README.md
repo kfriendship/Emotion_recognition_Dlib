@@ -44,3 +44,9 @@
 >>> ex3) python3 face_detector.py ../src/*.jpg 
 
 >>>> 실행 시, src폴더내의 얼굴인식이 실행됨
+
+
+## C. face_landemark_detection.py 실행하기
+> ./face_landmark_detection.py shape_predictor_68_face_landmarks.dat 폴더 경로
+>>>> bash permission이 denied 된 경우,
+>>>> chmod +x face_landmark_detection.py로 권한 
