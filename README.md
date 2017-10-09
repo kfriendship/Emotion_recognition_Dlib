@@ -35,12 +35,12 @@
 
 >>> ex1) python3 face_detector.py ../src/1.jpg
 
->>>>>> 실행 시, 1.jpg의 얼굴인식이 실행됨
+>>>> 실행 시, 1.jpg의 얼굴인식이 실행됨
 
 >>> ex2) python3 face_detector.py ../src/1.jpg ../src/2.jpg  
 
->>>>> 실행 시, 1.jpg와 2.jpg의 얼굴인식이 실행됨
+>>>> 실행 시, 1.jpg와 2.jpg의 얼굴인식이 실행됨
 
 >>> ex3) python3 face_detector.py ../src/*.jpg 
 
->>>>> 실행 시, src폴더내의 얼굴인식이 실행됨
+>>>> 실행 시, src폴더내의 얼굴인식이 실행됨
