@@ -30,17 +30,17 @@
 오류 없으면 성공!
 
 
-##B. face_detector.py 실행하기
+## B. face_detector.py 실행하기
 > python3 face_detector.py 파일경로/파일이름.확장자
 
-ex1) python3 face_detector.py ../src/1.jpg
+>>> ex1) python3 face_detector.py ../src/1.jpg
 
-하면, 1.jpg의 얼굴인식이 실행됨
+>>>>>> 하면, 1.jpg의 얼굴인식이 실행됨
 
-ex2) python3 face_detector.py ../src/1.jpg ../src/2.jpg  
+>>> ex2) python3 face_detector.py ../src/1.jpg ../src/2.jpg  
 
-하면, 1.jpg와 2.jpg의 얼굴인식이 실행됨
+>>>>>> 하면, 1.jpg와 2.jpg의 얼굴인식이 실행됨
 
-ex2) python3 face_detector.py ../src/*.jpg 
+>>> ex3) python3 face_detector.py ../src/*.jpg 
 
-하면, src폴더내의 얼굴인식이 실행됨
+>>>>>> 하면, src폴더내의 얼굴인식이 실행됨
